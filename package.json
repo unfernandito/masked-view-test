@@ -10,7 +10,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "@react-native-masked-view/masked-view": "github:unfernandito/masked-view#chore/upgrade-fabric",
+    "@react-native-masked-view/masked-view": "github:unfernandito/masked-view",
     "react": "18.0.0",
     "react-native": "0.69.1"
   },

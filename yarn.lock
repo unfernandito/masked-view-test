@@ -1558,9 +1558,9 @@
   "resolved" "https://registry.npmjs.org/@react-native-community/eslint-plugin/-/eslint-plugin-1.2.0.tgz"
   "version" "1.2.0"
 
-"@react-native-masked-view/masked-view@github:unfernandito/masked-view#chore/upgrade-fabric":
-  "resolved" "git+ssh://git@github.com/unfernandito/masked-view.git#676fcaed268218e94bf913cb1204bfb45420325b"
-  "version" "0.2.6"
+"@react-native-masked-view/masked-view@github:unfernandito/masked-view":
+  "resolved" "git+ssh://git@github.com/unfernandito/masked-view.git#7bc695b6b3f658a1fce6e131ca4eb87e063ba541"
+  "version" "0.2.7"
 
 "@react-native/assets@1.0.0":
   "integrity" "sha512-KrwSpS1tKI70wuKl68DwJZYEvXktDHdZMG0k2AXD/rJVSlB23/X2CB2cutVR0HwNMJIal9HOUOBB2rVfa6UGtQ=="
