@@ -1559,7 +1559,7 @@
   "version" "1.2.0"
 
 "@react-native-masked-view/masked-view@github:unfernandito/masked-view#chore/upgrade-fabric":
-  "resolved" "git+ssh://git@github.com/unfernandito/masked-view.git#5d167b6c2f4d1dc33c30183756b784fbc60d303d"
+  "resolved" "git+ssh://git@github.com/unfernandito/masked-view.git#676fcaed268218e94bf913cb1204bfb45420325b"
   "version" "0.2.6"
 
 "@react-native/assets@1.0.0":
